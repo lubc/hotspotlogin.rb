@@ -1,2 +1,2 @@
-require './app'
+require 'hotspotlogin'
 run Sinatra::Application
