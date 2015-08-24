@@ -3,6 +3,9 @@ require 'facets/string'
 require 'sinatra/base'
 require 'sinatra/r18n'
 require 'erb'
+require 'bundler'
+
+Bundler.require
 
 require 'hotspotlogin/constants'
 require 'hotspotlogin/config'
