@@ -1,1 +1,1 @@
-web: bundle exec ruby bin/hotspotlogin.rb -p $PORT
+web: bundle exec ruby hotspotlogin.rb -p $PORT
