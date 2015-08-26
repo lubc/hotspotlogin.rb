@@ -1,1 +1,1 @@
-require './bin/hotspotlogin'
+require './hotspotlogin.rb'
