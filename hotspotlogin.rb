@@ -32,5 +32,5 @@ if config['daemon']
   end
   Process.detach pid
 else # run in foreground
-  HotSpotLogin::App.run!
+  #HotSpotLogin::App.run!
 end
