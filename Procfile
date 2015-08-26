@@ -1,1 +1,1 @@
-web: bundle exec ruby ./bin/hotspotlogin -p $PORT
+web: bundle exec rackup config.ru -p $PORT
