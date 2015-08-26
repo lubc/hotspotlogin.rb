@@ -1,2 +1,2 @@
-require './lib/app.rb'
-run Sinatra::Application
+require './lib/hotspotlogin'
+run HotSpotLogin::App
