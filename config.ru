@@ -1,2 +1,2 @@
-require './hotspotlogin.rb'
+require './lib/hotspotlogin'
 run HotSpotLogin::App
