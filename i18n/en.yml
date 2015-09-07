@@ -7,7 +7,7 @@ login:
     already:      "already logged in to HotSpot"
     notyet:       "logged out from HotSpot"
     logging_into: "logging into HotSpot"
-    none:         "what do you want here? 2"
+    none:         "what do you want here? 3"
 signup:
   "you!": sign up
 account:
