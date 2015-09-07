@@ -1,6 +1,6 @@
 ---
 listen-address: hotspot-router.herokuapp.com
-port: 80
+port: 3990
 uamsecret: hotspot
 userpassword: true
 log-http: true
